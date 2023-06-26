@@ -6,7 +6,12 @@ body{
 }
 .head{
 	text-align:center;
-	
+	width:90%;
+	margin:0 auto;
+
+}
+.head p{
+	font-size:14px;
 }
 .head h1{
 	color:rgb(18, 69, 118);
@@ -46,7 +51,7 @@ main{
 	position: relative;
 	left:0.3em;
     font-size: 14px;
-    top: 24px;
+    top: 29px;
 	color:rgba(220, 224, 225);
 }
 .info{
